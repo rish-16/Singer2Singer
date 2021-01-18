@@ -1,4 +1,4 @@
-# Singer2Singer
+# Singer2Singer 🎙
 Inter-singer audio conversion using Deep Learning
 
 ## Why
